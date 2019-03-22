@@ -1,0 +1,11 @@
+Body Background: rgb(93, 48, 122)
+
+Foreground: 
+class = 
+    DashboardProfileCard-content //Profile card
+    module Trends trends //Trending hashtags
+    flex-module //People to follow
+    flex-module import-prompt //Imports contact gmail thing
+    flex-module //Footer part 1
+    flex-module Footer-adsModule //Footer part 2
+    tweet //tweets
