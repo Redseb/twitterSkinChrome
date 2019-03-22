@@ -1,6 +1,6 @@
-Body Background: rgb(93, 48, 122)
+Body Background: rgb(72,61,139)
 
-Foreground: 
+Foreground:  rgb(106,90,205)
 class = 
     DashboardProfileCard-content //Profile card
     module Trends trends //Trending hashtags
